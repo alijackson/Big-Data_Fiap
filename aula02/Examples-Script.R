@@ -13,7 +13,7 @@ library(ggplot2)
 #  teste <- mA1+ mA2  
 #}
 
-# Tabela de dados diamonds -> DataFrame
+# Tabela de dados de diamantes -> DataFrame
 d <- diamonds
 # +++++ Valores reais 
 # Calcular media
@@ -67,13 +67,38 @@ hist(d$price)
 
 # Visualizacao de 4 graficos 
 par(mfrow=c(2,2))
+# Reset de grafico
+par(mrflow=c(1,1))
+
 # Comparativo de distribuicao
 hist(d$price)
 hist(a1$price)
 hist(a2$price)
 hist(a3$price)
 
+# Exemplos de dados box ploit,
+# Pois puxa para mais uma lado, do que para outro 
+# Apenas um valor extremo não atende, tem que ter dados ate o extremo
 # Descrição de uma amostra
 summary(d)
 summary(a3)
 
+# Exemplos de dados box ploit,
+# Pois puxa para mais uma lado, do que para outro 
+# Apenas um valor extremo não atende, tem que ter dados ate o extremo
+# Examplo de box ploit
+boxplot(d$price)
+boxplot(d$price~d$cut)
+boxplot(d$price~d$color)
+
+# ======> A parti desse momento vamos usar outro DataFrame.
+# =====> Sobre veiculos
+# Trabalhando com graficos de dispersao
+m <- mtcars
+
+# Estudar se os carros mais levas sao mais economico
+plot(m$mpg~m$wt)
+
+# Correlação linear ==> Coef, Correl, Linear
+# (Person)
+cor(m$mpg,m$wt)
