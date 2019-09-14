@@ -1,0 +1,63 @@
+Aula de Diogenes Justo
+
+ESTATISTICA DESCRITIVA
+
+Estatisca classica 
+    Inferencial
+    Frequentista    => Relacionado ao assunto
+    Bayesiana       => Relacionado ao assunto
+
+
+Média
+    Comum 
+    mediana 
+
+Amplitude
+                        |
+                        |...............
+                        |       ´;´:;´´''
+                        |...............   
+                        |;;´´"""'
+                        |............
+                        |
+                        |
+                        |
+                        ==========================================
+
+
+            Menos popular  = = Variancia da variavel simples 
+            O famosinho = Desfio padrão       
+
+    |
+    |
+    |
+    |   
+    |
+    |
+    |
+    |
+    |
+    ==========================================
+
+Amostra
+    Base de dados inviesavel = = Base de dados que nao tem viés de análise 
+
+
+OUTLIER
+
+    Quando o padrão segue com a maioria linear e tem alguns dados isolados que foge do padrão.
+        ==> rejeitar dados de outlier pode trazer melhor presição das estatiscas 
+            ==> Deve usar ferramentas ou estratégias para eliminar dados outlier
+            ---> Devio padrão é muito importante para identificar outlier
+
+Variação da Média (Cigaman)
+
+ESCORE Z
+    É um numero associado ao numero valor da minha variavel 
+
+        Que diz quantos desvio padrao de distancia em relação a media 
+
+        Quantos desvio padrao de distancia do valor da media
+
+         ====== > Resumo ===> Um desvio padrão é aquele que o numero de Z é maior > quue 3
+
