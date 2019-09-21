@@ -4,12 +4,11 @@
  A variavel consequencia, sempre será a variavel depedente de causa
  a variavel causa e sempre indepedente
  enxogeno == indepedente / endogena == depedente
- 
-	--->	 IMPORTANTE CALCULO 001 e CALCULO 002 CALCULO NUMERICO	
-	--->		Matematica analitica
-		Algoritmo de gradiente descedente 
-			Operador Gradiente 
 
+
+P-Value quer dizer que esta tendo uma menor significancia estatistica
+				=== Planilha excel modelo de regressao
+	P-Value tem que ser acima de >0,5
  Calculo de uma reta é 
  y = ax + b + Ei
  
@@ -63,3 +62,5 @@ Modelo BRL
 	Multiple R	0,886431034
 	R Square	0,785759978
 	Standard Error	7,428401311
+
+
