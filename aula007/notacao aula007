@@ -1,0 +1,38 @@
+Problema de sobre ajuste - Over F
+
+Distancia entre dois pontos 
+	d = x¹ - x²
+			
+			|
+			|
+			|
+			|
+			|   __x¹=====x²_____   
+			|
+			|
+			=======================
+			
+	
+	
+	calculo da distancia entre palavras = Pesquisa
+	Distância Levenshtein 
+	Distancia numerica: Minkowski = Forma generica de euclides - Mesma metrica porem em mais dimenssoes
+	Distancia euclidiana
+	Text mining MLP Linguagem natural
+	
+	K-means
+	http://shabal.in/visuals/kmeans/1.html
+		Animação de clusterização
+			Começa com um sorteio aleatorio de kmeans/1
+				Ele associa cada ponto 
+	http://shabal.in/visuals/kmeans/2.html
+	
+	
+	CRM = Estudar mais a fundo
+	
+
+Regressão logistica
+Calcular via R  para isso vamos usar o packege E1071
+
+
+Estudar sobre random Forest
